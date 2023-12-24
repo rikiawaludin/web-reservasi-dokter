@@ -159,8 +159,8 @@ class Auth extends CI_Controller
         $config = [
             'protocol' => 'smtp',
             'smtp_host' => 'ssl://smtp.gmail.com',
-            'smtp_user' => 'aplikasireservasi@gmail.com',
-            'smtp_pass' => 'wpcg fhqp nruf japi',
+            'smtp_user' => 'YOUR_EMAIL',
+            'smtp_pass' => 'YOUR_PASS',
             'smtp_port' => 465,
             'mailtype' => 'html',
             'charset' => 'utf-8',
